@@ -1,14 +1,15 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
+	"名称": " fcc-learn-npm-package-json ",
+	 “作者”: “小倩0708”,
+	"依赖关系": {
+		“快递”: "^4.14.0"
 	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
+	"主要": " server.js ",
+	"脚本": {
+		"开始": "节点server.js "
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	"储存库": {
+		"类型": “饭桶”,
+		"网址": " https://github . com/freeCodeCamp/boilerplate-NPM . git "
 	}
 }
